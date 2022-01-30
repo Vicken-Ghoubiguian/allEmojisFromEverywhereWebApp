@@ -1,9 +1,9 @@
 #
-import flask.Flask
+from flask import Flask
 import requests
 
 #
-app = flask.Flask(__name__)
+app = Flask(__name__)
 
 #
 @app.route('/')
