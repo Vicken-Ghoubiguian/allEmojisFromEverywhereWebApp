@@ -1,6 +1,6 @@
 # allEmojisFromEverywhereWebApp
 
-This is a web application to retrieve all emojis 🔋 🇯🇵 🎻 🕰️ 👨‍🎤 🏮 👩‍💼 🕸️ 🇯🇲 🍁 🖱️ 👞 🎶 📼 🔂 ❤️ 👗 😺 💻 🌼 🚺 🎭 💗 🌿 💕 🌳 🌎 🎺 💮 🏝️ 🔪 😸 🍉 🌐 🔌 🔦 💄 🩸 🥌 👨‍💻 🏈 🍼 🧧 🎹 ⌨️ 🐌 🎷 🇯🇪 ⏳ 🌵 🔎 🪅 💿 📱 🇸🇬 🌋 🏗️ 💣 📿 🐛 🍭 🏧 💎 🏩 🥀 🐝 ⛰️ 😹 🌷 🇯🇴 🎮 ☘️ 👩‍💻 🎸 🎃 📽️ 🎏 🌺 😻 🌍 💜 📻 🖼️ 🎞️ 🔮 🍀 🛐 🪁 🪀 🦂 🪢 😼 🏆 ⛱️ 🚣 💛 🌏 🗺️ 🧠 🌾 🏵️ 🕳️ 😽 💾 📸 🫀 🏕️ 🙀 🧭 🛢️ 💽 🧳 👩‍⚕️ 🏞️ 😿 💌 💡 🗻 🎬 😾 🖥️ on all web services in the world (GitHub, Twitter, Facebook, Apple, Microsoft...)...
+This is a web application to retrieve all emojis 🔋 🇯🇵 🎻 🕰️ 👨‍🎤 🏮 👩‍💼 🕸️ 🇯🇲 🍁 🖱️ 👞 🎶 📼 🔂 ❤️ 👗 😺 💻 🌼 🚺 🎭 💗 🌿 💕 🌳 🌎 🎺 💮 🏝️ 🔪 😸 🍉 🌐 🔌 🔦 💄 🩸 🥌 👨‍💻 🏈 🍼 🧧 🎹 ⌨️ 🐌 🎷 🇯🇪 ⏳ 🌵 🔎 🪅 💿 📱 🇸🇬 🌋 🏗️ 💣 📿 🐛 🍭 🏧 💎 🏩 🥀 🐝 ⛰️ 😹 🌷 🇯🇴 🎮 ☘️ 👩‍💻 🎸 🎃 📽️ 🎏 🌺 😻 🌍 💜 📻 🖼️ 🎞️ 🔮 🍀 🛐 🪁 🪀 🦂 🪢 😼 🏆 ⛱️ 🚣 💛 🌏 🗺️ 🧠 🌾 🏵️ 🕳️ 😽 💾 📸 🫀 🏕️ 🙀 🧭 🛢️ 💽 🧳 👩‍⚕️ 🏞️ 😿 💌 💡 🗻 🎬 😾 🖥️ alone and on all of the main web services in the world (Browser, Google, Twitter, Facebook, Apple, Windows, Mozilla...)...
 
 ## Sources
 
