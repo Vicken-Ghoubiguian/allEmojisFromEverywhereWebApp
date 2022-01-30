@@ -35,6 +35,42 @@ def getEmojisFromSupport(wished_support):
         return "Samsung"
 
     #
+    elif wished_support == "Microsoft" or wished_support == "microsoft":
+
+        #
+        return "Microsoft"
+
+    #
+    elif wished_support == "WhatsApp" or wished_support == "Whatsapp" or wished_support == "whatsApp" or wished_support == "whatsapp":
+
+        #
+        return "WhatsApp"
+
+    #
+    elif wished_support == "Twitter" or wished_support == "twitter":
+
+        #
+        return "Twitter"
+
+    #
+    elif wished_support == "Facebook" or wished_support == "FaceBook" or wished_support == "faceBook" or wished_support == "facebook":
+
+        #
+        return "Facebook"
+
+    #
+    elif wished_support == "Skype" or wished_support == "skype":
+
+        #
+        return "Skype"
+
+    #
+    elif wished_support == "JoyPixels" or wished_support == "Joypixels" or wished_support == "joyPixels" or wished_support == "joypixels":
+
+        #
+        return "JoyPixels"
+
+    #
     else:
 
         #
