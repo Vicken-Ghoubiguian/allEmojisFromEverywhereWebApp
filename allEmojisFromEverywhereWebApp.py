@@ -13,14 +13,14 @@ def index():
     return 'Web App with Python Flask!'
 
 #
-@app.route('/emoji/<wished_emoji>')
+@app.route('/emoji/<string:wished_emoji>')
 def getEmoji(wished_emoji):
 
     #
     return "For emoji " + wished_emoji + "..."
 
 #
-@app.route('/support/<wished_support>')
+@app.route('/support/<string:wished_support>')
 def getEmojisFromSupport(wished_support):
 
     #
