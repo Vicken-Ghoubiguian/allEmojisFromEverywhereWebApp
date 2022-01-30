@@ -78,6 +78,42 @@ def getEmojisFromSupport(wished_support):
         return "JoyPixels"
 
     #
+    elif wished_support == "Messenger" or wished_support == "messenger":
+
+        #
+        return "Messenger"
+
+    #
+    elif wished_support == "LG" or wished_support == "lg":
+
+        #
+        return "LG"
+
+    #
+    elif wished_support == "HTC" or wished_support == "htc":
+
+        #
+        return "HTC"
+
+    #
+    elif wished_support == "Mozilla" or wished_support == "mozilla":
+
+        #
+        return "Mozilla"
+
+    #
+    elif wished_support == "SoftBank" or wished_support == "Softbank" or wished_support == "softBank" or wished_support == "softbank":
+
+        #
+        return "SoftBank"
+
+    #
+    elif wished_support == "Docomo" or wished_support == "docomo":
+
+        #
+        return "Docomo"
+
+    #
     else:
 
         #
