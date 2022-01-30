@@ -12,6 +12,13 @@ def index():
     #
     return 'Web App with Python Flask!'
 
+#
+@app.route('/support/<wished_support>')
+def getEmojisFromSupport(wished_support):
+
+    #
+    return 'Here is: ' + wished_support
+
 #@app.route('/github')
 #def getGitHubEmojis():
 
