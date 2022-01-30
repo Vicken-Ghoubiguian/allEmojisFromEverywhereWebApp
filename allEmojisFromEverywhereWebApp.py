@@ -2,6 +2,9 @@
 from flask import Flask
 
 #
+from . import emojis
+
+#
 import requests
 
 #
