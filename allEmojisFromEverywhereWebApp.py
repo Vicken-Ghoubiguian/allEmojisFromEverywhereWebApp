@@ -6,6 +6,9 @@ import requests
 app = Flask(__name__)
 
 #
+supports = {}
+
+#
 @app.route('/')
 def index():
 
