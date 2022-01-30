@@ -17,7 +17,28 @@ def index():
 def getEmojisFromSupport(wished_support):
 
     #
-    return 'Here is: ' + wished_support
+    if wished_support == "Apple" or wished_support == "apple":
+
+        #
+        return "Apple"
+
+    #
+    elif wished_support == "Google" or wished_support == "google":
+
+        #
+        return "Google"
+
+    #
+    elif wished_support == "Samsung" or wished_support == "samsung":
+
+        #
+        return "Samsung"
+
+    #
+    else:
+
+        #
+        return 'Here is: ' + wished_support
 
 #
 app.run(host='0.0.0.0', port=80)
