@@ -6,7 +6,15 @@ import requests
 app = Flask(__name__)
 
 #
-supports = {}
+supports = {"Apple", "apple",
+            "Google", "google",
+            "Samsung", "samsung",
+            "Microsoft", "microsoft",
+            "WhatsApp", "Whatsapp", "whatsApp", "whatsapp",
+            "Twitter", "twitter",
+            "Facebook", "FaceBook", "faceBook", "facebook",
+            "Skype", "skype",
+            "JoyPixels", "Joypixels", "joyPixels", "joypixels"}
 
 #
 @app.route('/')
