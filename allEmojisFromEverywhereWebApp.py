@@ -1,4 +1,4 @@
-#from flask import Flask
+#
 import flask.Flask
 import requests
 
@@ -12,11 +12,11 @@ def index():
     #
     return 'Web App with Python Flask!'
 
-@app.route('/github')
-def getGitHubEmojis():
+#@app.route('/github')
+#def getGitHubEmojis():
 
     #
-    return "GitHub emojis..."
+    #return "GitHub emojis..."
 
 #
 app.run(host='0.0.0.0', port=80)
