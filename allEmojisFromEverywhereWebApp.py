@@ -32,7 +32,7 @@ supports = ["Apple", "apple",
 def index():
 
     #
-    return 'Web App with Python Flask!'
+    return 'Welcome to the los polos hermanos !...'
 
 #
 @app.route('/emoji/<string:wished_emoji>')
