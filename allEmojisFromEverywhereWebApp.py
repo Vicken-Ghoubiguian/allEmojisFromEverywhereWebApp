@@ -14,7 +14,12 @@ supports = {"Apple", "apple",
             "Twitter", "twitter",
             "Facebook", "FaceBook", "faceBook", "facebook",
             "Skype", "skype",
-            "JoyPixels", "Joypixels", "joyPixels", "joypixels"}
+            "JoyPixels", "Joypixels", "joyPixels", "joypixels",
+            
+            "Mozilla", "mozilla",
+            "SoftBank", "Softbank", "softBank", "softbank",
+            "Docomo", "docomo",
+            "au_by_KDDI", "au_by_kddi"}
 
 #
 @app.route('/')
