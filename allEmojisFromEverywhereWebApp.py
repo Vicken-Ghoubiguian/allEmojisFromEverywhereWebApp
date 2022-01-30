@@ -78,6 +78,18 @@ def getEmojisFromSupport(wished_support):
         return "JoyPixels"
 
     #
+    elif wished_support == "OpenMoji" or wished_support == "Openmoji" or wished_support == "openMoji" or wished_support == "openmoji":
+
+        #
+        return "OpenMoji"
+
+    #
+    elif wished_support == "Emojidex" or wished_support == "emojidex":
+
+        #
+        return "Emojidex"
+
+    #
     elif wished_support == "Messenger" or wished_support == "messenger":
 
         #
@@ -112,6 +124,12 @@ def getEmojisFromSupport(wished_support):
 
         #
         return "Docomo"
+
+    #
+    elif wished_support == "au_by_KDDI" or wished_support == "au_by_kddi":
+
+        #
+        return "au by KDDI"
 
     #
     else:
