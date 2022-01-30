@@ -16,6 +16,8 @@ supports = ["Apple", "apple",
             "Skype", "skype",
             "JoyPixels", "Joypixels", "joyPixels", "joypixels",
             
+            "LG", "lg",
+            "HTC", "htc",
             "Mozilla", "mozilla",
             "SoftBank", "Softbank", "softBank", "softbank",
             "Docomo", "docomo",
