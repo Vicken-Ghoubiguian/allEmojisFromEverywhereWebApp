@@ -146,7 +146,7 @@ def getEmojisFromSupport(wished_support):
     else:
 
         #
-        return 'Here is: ' + wished_support
+        return 'Unfortunately... ' + wished_support + ' is unknown...'
 
 #
 app.run(host='0.0.0.0', port=80)
